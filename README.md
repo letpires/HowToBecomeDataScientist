@@ -33,19 +33,37 @@ No meu [blog do Medium](https://medium.com/leti-pires) você também encontra um
 ## 🕵️‍♀️ Passo 02: Entenda a área e os principais desafios
 
 É importante entender quais são as sub-áreas dentro do universo de dados, pois cada uma possui desafios específicos. Por exemplo:
-- Engenheiro de Dados: Engenheiro de Dados é um tipo especializado de Engenheiro de Software que possibilita outros a responderem questões sobre grandes datasets com restrições específicas de latência e tempo.” (Nathan Marz). [Conceitos que um Engenheiro de Dados geralmente domina: Pipeline de dados; ETL’s + ELT’s; data lakes; modelagem de dados; processamento distribuido; cloud; desenvolvimento de software; arquitetura de Sistemas]
-- Analista de Dados:
-- Cientista de Dados:
+- **Engenheiro de Dados:** Geralmente domina pipeline de dados, ETL’s + ELT’s, data lakes, modelagem de dados, processamento distribuido, desenvolvimento de software; arquitetura de Sistemas
+- **Analista de Dados:** Domina análise de dados, planejamento de projetos, comunicação, apresentações de impacto, técnicas de negociação;
+
+- **Cientista de Dados:** Geralmente domina Python/R, SQL;, modelos de machine learning, estatística, otimização de modelos, metodologia científica, redes neurais, deep learning.
 
 Vídeo de apoio: [Diferença entre o Cientista de Dados e Engenheiro de Machine Learning](https://www.youtube.com/watch?v=2cNQZP2ARXo&ab_channel=Let%C3%ADciaPires)
 
 Mas além desses, existem muitas outras segmentações dentro da área de dados, como Engenheiro de Machine Learning, Business Anlytics DevOps, e outros.
 
-Fazendo o entendimento dessas áreas, você pode entender qual se adequa mais a você, quais são os objetivos, as habilidades necessárias que você precisa aprender.
+Cada área de atuação vai exigir uma combinação diferente de hard skils e soft skills. Alguém que busca a posição de Data Engineer vai precisar ter mais conhecimentos em desenvolvimento de software, enquanto que alguém que busca a posição de Data Scientist não necessarimente necessita dessa experiência. Fazendo o entendimento dessas áreas, você pode entender qual se adequa mais a você, quais são os objetivos, as habilidades necessárias que você precisa aprender.
 
-### 📚 Meu primeiro projeto
 
-### 📚 Quais foram os desafios e o que aprendi no primeiro projeto?
+### 📊 Meu primeiro projeto
+<p align="left">
+  <img src="https://github.com/letpires/HowToBecomeDataScientist/blob/main/primeiro%20projeto.png" >
+</p>
+
+Foi um projeto pra uma empresa de mídia no Brasil. Teve como objetivo extrair as informações de arquivos de vídeo, analisar quais informações impactam na popularidade dos vídeos e consequentemente a potencial monetização desses vídeos. 
+
+A gente utilizou várias ferramentas Google pra esse projeto, pra fazer dowload, extrair informações, transcrições de vídeo, audio de video, e em cima disso e metadados a gente conseguiu realizar análise de sentimentos, criar modelos de machine learning, clusterização, utilizar linguagem de processamento natural, pra no final gerar vários insights do que pode impactar mais na monetização de vídeos, bem como fazer previsões de caracteristicas que precisam ter nos videos pra conseguir monetizar.
+
+
+### 🔓 Quais foram os desafios e o que aprendi no primeiro projeto?
+1. Você vai precisar usar o Raciocínio Lógico e não somente as bibliotecas 😁;
+2. "Sabedoria não é saber tudo, mas saber que nunca se sabe o suficiente";
+3. O Google/Stackoverflow serão seus melhores amigos;
+4. Não tenha medo de pedir ajuda!
+5. Seja pro-ativo, pegue tarefas para você, mesmo que você não saiba como fazer pois dessa forma você agregando mais conhecimento;
+6. Peça feedbacks ao seu gestor para entender o que você precisa melhorar.
+
+🎧 Mais dicas e aprendizados no EP4 do CODA AI - [Clique aqui e ouça o episódio no Spotify - EP4: Dicas e progressão de carreira ](https://open.spotify.com/episode/5qyO6rZlMDNxPdqizainem?si=1e6e59bc057b4af9)
 
 ## 🗺 Passo 03: Mapeamento de oportunidades
 - Olhando pra essas oportunidades, o que você adicionaria na lista de estudos?
@@ -58,3 +76,38 @@ Fazendo o entendimento dessas áreas, você pode entender qual se adequa mais a 
 - **Conhecimento de Banco de dados - SQL:** Crie banco de dados, delete uma tabela, insira novos valores, faça consultas com diversos parâmetros, altere valores em uma tabela, cruze informações, exporte os dados;
 - **Conhecimento de Dashboards/Relatórios:** Aprenda uma ferramenta de visualização de dados. Faça gráficos de barras, colunas, radar, linhas, dispersão e crie dashboards simples e objetivo;
 - **BÔNUS: Criação de Machine Learning:** aprenda um tipo no começo (regressão linear por exemplo), aprenda métricas para avaliar a performance do modelo.
+
+## 📖 Passo 05: Crie um plano de estudos
+
+- Depois de mapear o que precisa aprender e o que já sabe, monte um cronograma e plano de estudos;
+- Estipule um prazo de conclusão, coloque metas, adapte a sua rotina.
+
+### Exemplo
+<p align="left">
+  <img src="https://github.com/letpires/HowToBecomeDataScientist/blob/main/plano%20de%20estudos.png" >
+</p>
+
+Qual será o prazo? 4 meses (120 dias)<br/>
+Quantas horas semanais serão dedicadas? 10h/semanais <br/>
+Dias de semana? 2h <br/>
+Finais de semana? 8h <br/>
+
+## 🎫 Passo 06: Criando seu portfólio
+- Portfólio é uma lista com os trabalhos de um profissional ou estudante;
+- A melhor forma de montar é divulgando o trabalho seja através de projetos, dashboards, estudo voluntário, outros;
+- Onde compartilhar? Kaggle, Medium, LinkedIn, Instagram, Github, etc.
+- Utilize esse link no seu CV.
+
+## 📄 Passo 07: Preparando seu currículo
+-Diferencial: utilizar sua experiência a seu favor;
+- Adapte o seu currículo a vaga que for concorrer;
+- Apresentação: deixe claro o motivo que fez você  buscar essa transição;
+- Experiências profissionais: tente relacionar suas experiências com os desafios da área.
+- Portfólio: onde você pode mostrar sua experiência ao recrutador;
+- Competências técnicas: dê destaque as competências relacionadas as vagas;
+- Primeira conversa com recrutador: deixe claro que você estudou a empresa, entende o desafio, mapeou os pontos fracos e está desenvolvendo;
+- Teste técnico: se você tiver praticando, isso não será um problema. A cada teste que fizer, tente encarar como uma forma de entender pontos que você precisa melhorar. Peça feedbacks!
+
+## Passo 08: FAÇA NETWORKING
+
+Faça muito networking, participe de grupos de tecnologia, converse com pessoas da área, entenda mais sobre os desafios da área.
