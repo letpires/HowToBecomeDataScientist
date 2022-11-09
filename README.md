@@ -99,7 +99,7 @@ Finais de semana? 8h <br/>
 - Utilize esse link no seu CV.
 
 ## 📄 Passo 07: Preparando seu currículo
--Diferencial: utilizar sua experiência a seu favor;
+- Diferencial: utilizar sua experiência a seu favor;
 - Adapte o seu currículo a vaga que for concorrer;
 - Apresentação: deixe claro o motivo que fez você  buscar essa transição;
 - Experiências profissionais: tente relacionar suas experiências com os desafios da área.
@@ -111,3 +111,6 @@ Finais de semana? 8h <br/>
 ## Passo 08: FAÇA NETWORKING
 
 Faça muito networking, participe de grupos de tecnologia, converse com pessoas da área, entenda mais sobre os desafios da área.
+
+Obrigada por acompanhar até aqui! Se gostou e foi útil, [não esquece de se inscrever no canal](https://www.youtube.com/channel/UC7C3taM54q4rsEIDPFNVsLg) e até o próximo vídeo!👋
+
