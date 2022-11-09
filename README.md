@@ -53,8 +53,8 @@ Fazendo o entendimento dessas áreas, você pode entender qual se adequa mais a 
 
 ## 📚 Passo 04: Estudar muito
 
-- Domínio em linguagens de programação: Aprenda Python ou R. Faça projetos simples que demonstre seu conhecimento. Ex: jogo de adivinhação, jogo da forca;
-- Conhecimento de Estatística: Aprenda Estatística Descritiva. Faça projetos utilizando linguagens de programação com dados reais. Extraia média, moda, mediana, aplique percentis para dividir sua amostra, utilize medidas de dispersão, desvio padrão, coeficiente de variação;
-- Conhecimento de Banco de dados - SQL: Crie banco de dados, delete uma tabela, insira novos valores, faça consultas com diversos parâmetros, altere valores em uma tabela, cruze informações, exporte os dados;
-- Conhecimento de Dashboards/Relatórios: Aprenda uma ferramenta de visualização de dados. Faça gráficos de barras, colunas, radar, linhas, dispersão e crie dashboards simples e objetivo;
-- BÔNUS: Criação de Machine Learning: aprenda um tipo no começo (regressão linear por exemplo), aprenda métricas para avaliar a performance do modelo.
+- **Domínio em linguagens de programação:** Aprenda Python ou R. Faça projetos simples que demonstre seu conhecimento. Ex: jogo de adivinhação, jogo da forca;
+- **Conhecimento de Estatística:** Aprenda Estatística Descritiva. Faça projetos utilizando linguagens de programação com dados reais. Extraia média, moda, mediana, aplique percentis para dividir sua amostra, utilize medidas de dispersão, desvio padrão, coeficiente de variação;
+- **Conhecimento de Banco de dados - SQL:** Crie banco de dados, delete uma tabela, insira novos valores, faça consultas com diversos parâmetros, altere valores em uma tabela, cruze informações, exporte os dados;
+- **Conhecimento de Dashboards/Relatórios:** Aprenda uma ferramenta de visualização de dados. Faça gráficos de barras, colunas, radar, linhas, dispersão e crie dashboards simples e objetivo;
+- **BÔNUS: Criação de Machine Learning:** aprenda um tipo no começo (regressão linear por exemplo), aprenda métricas para avaliar a performance do modelo.
